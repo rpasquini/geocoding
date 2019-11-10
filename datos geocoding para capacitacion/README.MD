@@ -10,8 +10,8 @@ Python 3.7, Pandas, Geopandas, Geocoder
 
 # Instalación
 
-La instalacion de todas las librerias necesarias es llevada a cabo por Miniconda. Instalar primero [Miniconda](https://docs.conda.io/en/latest/miniconda.html#windows-installers)
-De no tener [Python](https://www.python.org/downloads/release/python-374/) instalarlo también
+La instalacion de todas las librerias necesarias es llevada a cabo por Miniconda. Instalar primero [Miniconda](https://docs.conda.io/en/latest/miniconda.html#windows-installers).
+De no tener [Python](https://www.python.org/downloads/release/python-374/) instalarlo también.
 
 Copiar los archivos de este repositorio a un directorio y desde ahí, usando la linea de comando (CMD), correr el siguiente comando para la instalacion de lo necesario.
 
